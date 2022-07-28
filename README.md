@@ -1,7 +1,8 @@
 # Parks and Recreation :3 
 This is yet another project for college listings the parks in the city + and my first website built with php 
   
-      ![ezgif com-gif-maker-9](https://user-images.githubusercontent.com/79986157/181393666-8578ee9d-b71b-437b-9261-59e294ef9ddc.gif)
+  ![ezgif com-gif-maker-9](https://user-images.githubusercontent.com/79986157/181393737-b287bdcd-e49c-4720-9553-5697866282f0.gif)
+
 
       
 Didn't get the full mark but keeping it cool 🌛
