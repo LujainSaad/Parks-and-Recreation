@@ -6,18 +6,18 @@ This is yet another project for college. This website provides a comprehensive g
 
 
       
-I didn't get the full mark but we are keeping it cool. 🌛
+I didn't get the full mark but I'm keeping it cool. 🌛
 
   ![wxA7iBL](https://user-images.githubusercontent.com/79986157/181393479-2857ebdb-96d9-4552-936f-7468a304cb2e.gif)
 
 
-#### Prerequisites
+### Prerequisites
 
 - A web server with PHP support (e.g., Apache, Nginx)
 - MySQL database server
 - A web browser (e.g., Chrome, Firefox, Safari)
 
-#### Installation
+### Installation
 
 1. Clone the repository:
    ```bash
